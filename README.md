@@ -1,4 +1,4 @@
-# decent-flat-white-coffee-in-paris
+# phlat-ouait
 Compiling a list of all places I have tried a flat white in Paris, with the goal to eventually have an API to find the closest one to me/you :)
 
 Current ratings are available [**in this .json**](https://github.com/nlml/decent-flat-white-coffee-in-paris/blob/main/src/ratings.json)
