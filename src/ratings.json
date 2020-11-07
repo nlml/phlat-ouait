@@ -1,0 +1,12 @@
+[
+  {
+    "name": "KB Cafeshop",
+    "price": 4,
+    "currency": "EUR",
+    "latlon": [48.8806592, 2.3407497],
+    "address": "53 Avenue Trudaine, 75009",
+    "city": "Paris",
+    "country": "France",
+    "rating": 5.0,
+  }
+]
