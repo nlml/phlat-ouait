@@ -8,5 +8,6 @@
     "city": "Paris",
     "country": "France",
     "rating": 5.0,
+    "item": "Flat White",
   }
 ]
